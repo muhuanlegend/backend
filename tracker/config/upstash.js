@@ -1,4 +1,4 @@
-import { Client as WorkflowClient } from '@/upstash/workflow';
+import { Client as WorkflowClient } from '@upstash/workflow';
 
 import {
     QSTASH_URL,
